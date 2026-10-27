@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Andrés Herrera</h1>
+<h1 align="center">Andrés Herrera</h1>
 
 <h3 align="center">Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad | Inteligencia Artificial</h3>
 
@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería de Sistemas en la Universidad Cooperativa de Colombia**, interesado en el desarrollo de software, la inteligencia artificial y la ciberseguridad.
+Estudiante de **Ingeniería de Sistemas en la Universidad Cooperativa de Colombia**, interesado en el desarrollo de software, inteligencia artificial y ciberseguridad.
 
 -  **Actualmente trabajando en:** [SportLeague](https://github.com/javierlydiaz21-bit/sportsleague).
 -  **Desarrollo de software:** aplicaciones web, backend y APIs REST.
