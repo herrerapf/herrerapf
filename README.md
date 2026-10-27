@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Andrés Herrera</h1>
 
-<h3 align="center">Ingeniería de Sistemas | Desarrollo de Software | Ciberseguridad | Inteligencia Artificial</h3>
+<h3 align="center">Ingeniero de Sistemas | Desarrollo de Software | Ciberseguridad | Inteligencia Artificial</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Desarrollador+de+Software;Explorando+la+Ciberseguridad;Inteligencia+Artificial+y+Machine+Learning;Construyendo+soluciones+tecnol%C3%B3gicas" alt="Presentación animada" />
