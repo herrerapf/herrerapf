@@ -92,7 +92,7 @@ Actualmente estoy enfocado en fortalecer mis conocimientos y ampliar mi formaci�
 - 🛡️ Aprendizaje en ciberseguridad y desarrollo seguro.
 - ⚙️ Profundización en Docker, CI/CD y automatización de pruebas.
 
-> Las certificaciones profesionales se incorporarán a esta sección a medida que sean completadas.
+
 
 ## Estadísticas de GitHub
 
