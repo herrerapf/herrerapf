@@ -19,7 +19,7 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:TU_CORREO" target="blank"><img align="center" src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+<a href="mailto:andresherrera0893@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
