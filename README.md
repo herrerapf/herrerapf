@@ -92,8 +92,4 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Cooperativa de Colombi
   <a href="https://github.com/herrerapf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-herrerapf-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 
-<p align="center">
-  <i>Aprendiendo, construyendo y mejorando cada día.</i>
-</p>
