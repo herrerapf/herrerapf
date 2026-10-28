@@ -68,7 +68,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Cooperativa de Colombia,
 -  **[Hogar-connect](https://github.com/herrerapf/Hogar-connect)** — Aplicación web con backend en Python y frontend en JavaScript.
 -  **[Nutrilab](https://github.com/herrerapf/Nutrilab)** — Aplicación web de planificación nutricional.
 
-## Conecta conmigo
+## Contacto y redes 
 
 <p align="center">
   <a href="mailto:andresherrera0893@gmail.com">
