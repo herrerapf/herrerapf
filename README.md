@@ -18,14 +18,8 @@
 
 ## Sobre mí
 
-Estudiante de **Ingeniería de Sistemas en la Universidad Cooperativa de Colombia**, interesado en el desarrollo de software, inteligencia artificial y ciberseguridad.
+Estudiante de Ingeniería de Sistemas en la Universidad Cooperativa de Colombia, con enfoque en desarrollo de software, inteligencia artificial y ciberseguridad. Complemento mi formación académica con certificaciones profesionales y aprendizaje continuo en tecnologías emergentes.
 
--  **Actualmente trabajando en:** [SportLeague](https://github.com/javierlydiaz21-bit/sportsleague).
--  **Desarrollo de software:** aplicaciones web, backend y APIs REST.
--  **Inteligencia artificial:** Machine Learning y análisis de datos.
--  **Ciberseguridad:** explorando la seguridad informática y las prácticas de desarrollo seguro.
--  **DevOps:** aprendiendo Docker, CI/CD y automatización de pruebas.
--  **Intereses:** astronomía, exploración espacial y avances tecnológicos.
 
 ## Tecnologías y herramientas
 
@@ -64,12 +58,6 @@ Estudiante de **Ingeniería de Sistemas en la Universidad Cooperativa de Colombi
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-En%20aprendizaje-2E8B57?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Ciberseguridad" />
   <img src="https://img.shields.io/badge/DevSecOps-En%20aprendizaje-2088FF?style=for-the-badge&logo=linux&logoColor=white" alt="DevSecOps" />
-</p>
-
-### Diseño y desarrollo de videojuegos
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,phaser&theme=dark" alt="Diseño y desarrollo de videojuegos" />
 </p>
 
 ## Proyectos destacados
